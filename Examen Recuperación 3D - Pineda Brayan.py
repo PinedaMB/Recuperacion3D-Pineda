@@ -10,7 +10,10 @@ una vez listo se permitirá usar el programa sin ningún problema
 
 Importar también desde math sqrt que es raiz cuadrada
 
-Nota!!!!! El programa funcina correctamente, pero la variable "flag" que marca si está dentro o fuera no se reinicia, pienso que es error de mi computadora, pero si sale del programa (ESC) y lo veulve a ejecutar  cambia el mensaje y lo muestra correctamente !!!!!
+Nota!!!!! El programa funcina correctamente, pero la variable "flag" 
+que marca si está dentro o fuera no se reinicia, pienso que es error de mi computadora, 
+pero si sale del programa (ESC) y lo veulve a ejecutar 
+cambia el mensaje y lo muestra correctamente !!!!!
 """
 
 #Se importan las librerías
